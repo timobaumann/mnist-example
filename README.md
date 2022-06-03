@@ -25,4 +25,6 @@ aber Sie können Ihre Ergebnisse leider nicht dauerhaft abspeichern.
 Versuchen Sie bitte
 
 (a) die Klasse MNISTClassifier zu verstehen -- was passiert im Konstruktur und was passiert, wenn das neuronale Netz aufgerufen wird?
+    (Im Jupyter-Notebook sind unterschiedliche Netze definiert, wie unterscheiden sie sich?)
+
 (b) den Ablauf des Trainings zu verstehen.
